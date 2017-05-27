@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+}
+
+.speechbubble {
+    position: relative;
+    width: 150px;
+    height: 120px;
+    background-color: #82a8e5;
+    left: 40px;
+    border-radius: 20px;
+}
+
+.speechbubblepointer {
+    position: relative;
+    border-top: 18px solid transparent;
+    border-bottom: 18px solid transparent;
+    border-right: 36px solid #82a8e5;
+    top: 18px;
+    right: 150px;
+}
